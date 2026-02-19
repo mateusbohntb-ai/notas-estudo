@@ -44,8 +44,6 @@ Agora é preciso adicionar a chave.
 ```bash
 ssh-add ~/.ssh/id_ed25519
 ```
-
-
 Use o comando para copiar a chave .
 
 ```bash
@@ -53,11 +51,13 @@ clip < ~/.ssh/id_ed25519.pub
 ```
 ## Criar um Repositorio 
  
- Agora vamos criar um novo repositório no Git-Hub ,volte a página inicial do Git-Hub e clique em “New” no canto esquerdo da tela 
-coloque o nome , a descrição, deixe no público e clique sempre no  “README”.
+ cd Documents/
+ git clone "link do git hub"
+ cd "nome da pasta"
+ 
 
 ## vs code 
-Abra o git bash .Agora vamos clonar a pasta com o comando “cd Documents/” agora seus arquivos vão  para a pasta da sua máquina . Agora vamos  escrever o comando cd “nome da pasta que está no repositório do Git-Hub”. 
+Abra o git bash .Agora vamos clonar a pasta com o comando “cd Documents/” agora seus arquivos vão  para a pasta da sua máquina . Agora vamos  escrever o comando cd clone  que está no repositório do Git-Hub”. 
 Clicamos em yes para prosseguir ,agora precisamos baixar o Vs.code pelo google  com ele baixado no seu pc volte para o Git-bash e escreva o comando “code .”
 
 ## vs code readme 
@@ -71,3 +71,5 @@ ctrl k o
 para trocar de pasta do github  
 
 ## aula 19/02/2026
+
+
