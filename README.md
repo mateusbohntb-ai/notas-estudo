@@ -49,12 +49,12 @@ Use o comando para copiar a chave .
 ```bash
 clip < ~/.ssh/id_ed25519.pub 
 ```
-## Criar um Repositorio 
+## clonar repositorio 
  
  cd Documents/
  git clone "link do git hub"
  cd "nome da pasta"
- 
+
 
 ## vs code 
 Abra o git bash .Agora vamos clonar a pasta com o comando “cd Documents/” agora seus arquivos vão  para a pasta da sua máquina . Agora vamos  escrever o comando cd clone  que está no repositório do Git-Hub”. 
