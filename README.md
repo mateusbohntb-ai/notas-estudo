@@ -67,6 +67,7 @@ Clique em Sync Changes 1 para subir para nuvem
 
 
 comando vs 
-crl k o 
+ctrl k o 
 para trocar de pasta do github  
 
+## aula 19/02/2026
