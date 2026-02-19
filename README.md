@@ -6,6 +6,6 @@ markdown
 
 
 ```bash
-git config --global
+git config --global  aaaaa
 
 ```
