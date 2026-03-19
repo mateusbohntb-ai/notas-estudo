@@ -1,3 +1,4 @@
+```js
 ## Git Hub
 
 1-Abra o CMD do computador "Terminal de comando".
@@ -11,12 +12,24 @@ ao nome salvo.
 
 5-Agora coloque o comando ``git config --global user.email “seuEmail@gmail.com”`` esse comando especifico ``` coloque o email que você ultiliza/ultilizara do GIT-HUB```
 
+```
 
-
-
+```js
 ## Git bash
 
 1-Caso você queira verificar se à alguma key na sua maquina use o comando ``ls -al ~/.ssh``
 
-2-
+2-Ultilise o comando ```ssh-keygen -t ed25519 -C “your_email@example.com”``` colocando o gmail que você usou no github.
 
+3-Ultilize o comando ```eval "$(ssh-agent -s)"```
+
+
+
+
+4- digite esse comando ```ssh-add ~/.ssh/id_ed25519```
+
+## clone as pastas do git hub para sua maquina 
+1-use o comando ``cd document/
+
+2- use comando ```git clone``` e cole a chave ssh 
+```
