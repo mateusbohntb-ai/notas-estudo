@@ -23,7 +23,7 @@ ao nome salvo.
 
 3-Ultilize o comando ```eval "$(ssh-agent -s)"```
 
-
+4-Copiar com comando "clip < ~/.ssh/id_ed25519.pub"
 
 
 4- digite esse comando ```ssh-add ~/.ssh/id_ed25519```
