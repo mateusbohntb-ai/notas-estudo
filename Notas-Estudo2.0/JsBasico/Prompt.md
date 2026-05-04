@@ -11,5 +11,14 @@ Detalhe importante : Toda resposta do prompt é texto (string),mesmo que o usuá
 
 Exemplo :
 ```js
-const  = (prompt("string:):"))
+const variavel = (prompt("string:):"))
+```
+
+Para que o Prompt não retorne texto precisamos adicionar um elemento chamado Number 
+
+Exemplo :
+
+```js 
+const variavel = Number(prompt("Por favor digitar um numero."))
+```
 ```
